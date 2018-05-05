@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/googleapi/googleapi.iml" filepath="$PROJECT_DIR$/googleapi/googleapi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/translator.iml" filepath="$PROJECT_DIR$/translator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Translator.iml" filepath="$PROJECT_DIR$/Translator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../java-docs-samples-master/translate/translate.iml" filepath="$PROJECT_DIR$/../../java-docs-samples-master/translate/translate.iml" />
     </modules>
   </component>
 </project>

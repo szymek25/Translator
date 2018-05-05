@@ -3,7 +3,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/googleapi/pom.xml" />
+        <option value="$PROJECT_DIR$/../../java-docs-samples-master/translate/pom.xml" />
       </list>
     </option>
   </component>

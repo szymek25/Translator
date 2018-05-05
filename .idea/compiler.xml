@@ -16,11 +16,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="googleapi" />
+        <module name="translate" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="googleapi" target="1.5" />
+      <module name="translate" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
